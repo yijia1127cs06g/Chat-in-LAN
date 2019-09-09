@@ -9,3 +9,7 @@ hw for UNIX programming
 - Ask the user to provide his/her username.
 - Repeatedly ask the user to enter his/her message. The message is then broadcasted to all enumerated Ethernet-compatible network interfaces.
 - At the same time, your program should receive messages broadcasted by other host in connected LANs.
+
+## Usage
+$ make
+$ sudo ./lanchat
