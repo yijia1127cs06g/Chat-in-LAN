@@ -1,5 +1,4 @@
 # Chat-in-LAN
-hw for UNIX programming
 
 ## Intro
 - implement a simple chat program in LAN using Linux packet(7) socket. Instead of sending IP packets, broadcasting chat messages using layer 2 broadcast packets.
